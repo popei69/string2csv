@@ -1,0 +1,4 @@
+<resources>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+</resources>

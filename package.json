@@ -1,0 +1,16 @@
+{
+  "name": "strings2csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "strings2csv.js",
+  "dependencies": {
+    "json2csv": "^3.7.3",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node strings2csv.js"
+  },
+  "author": "Benoit Pasquier",
+  "license": "Apache License 2.0"
+}
